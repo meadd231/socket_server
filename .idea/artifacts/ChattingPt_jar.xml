@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChattingPt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChattingPt_jar</output-path>
+    <root id="archive" name="ChattingPt.jar">
+      <element id="module-output" name="ChattingPt" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/jdk-15.0.1/lib/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/jdk-15.0.1/lib/json-simple-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
